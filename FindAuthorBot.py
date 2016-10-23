@@ -16,8 +16,8 @@ try:
 except ImportError:
     from urllib2 import URLError  # python 2
     
-TOKEN = '127631706:AAEAR9Y4HNqmuSi8OU622-qxB2k05KeRrag'
-API_KEY = 'AIzaSyAE8weNXysN-sFhvxx0epWFphi2ZRAnOwA'
+TOKEN = 'Bot token here'
+API_KEY = 'Api key here'
 
 RUSSIAN = u'русский'
 ENGLISH = u'английский'
